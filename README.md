@@ -9,7 +9,7 @@ it will start working right away. You can speed up or slow down the motor by cha
 - 28BYJ-48 5v Step Motor
 - Step Motor Driver
 - 3D printer outputs
-- One bearing (for smoother rotation)
+- One roller (for smoother rotation)
 - Besides the 3D printer outputs, I added an extra plastic part because the center of gravity remains high.
 
 If you also use 3D parts, I'd like to add a small note: the gear connected to the step motor is a bit small;
